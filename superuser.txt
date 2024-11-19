@@ -1,0 +1,2 @@
+user: admin
+pass: bsafesuper$1
