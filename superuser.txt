@@ -1,2 +1,2 @@
-user: admin
-pass: bsafesuper$1
+user: newadmin
+pass: bsafesuper$2
